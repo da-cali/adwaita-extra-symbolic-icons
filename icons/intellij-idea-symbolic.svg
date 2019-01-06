@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="idea-symbolic.svg"
+   height="16"
+   id="svg7384"
+   version="1.1"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   width="16.000002">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-paths="true"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:current-layer="layer9"
+     inkscape:cx="7.8197024"
+     inkscape:cy="8.596015"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#555753"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     showborder="false"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="741"
+     inkscape:window-maximized="1"
+     inkscape:window-width="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:zoom="22.627417">
+    <inkscape:grid
+       empspacing="2"
+       enabled="true"
+       id="grid4866"
+       originx="-222"
+       originy="-362"
+       snapvisiblegridlinesonly="true"
+       spacingx="1"
+       spacingy="1"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient7212"
+       osb:paint="solid">
+      <stop
+         id="stop7214"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient-1"
+       y2="38.865045"
+       x2="28.705127"
+       y1="38.865045"
+       x1="0.66010473"
+       gradientTransform="scale(1.0604378,0.94300676)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop16"
+         offset="26%"
+         stop-color="#F97A12" />
+      <stop
+         id="stop18"
+         offset="46%"
+         stop-color="#B07B58" />
+      <stop
+         id="stop20"
+         offset="72%"
+         stop-color="#577BAE" />
+      <stop
+         id="stop22"
+         offset="91%"
+         stop-color="#1E7CE5" />
+      <stop
+         id="stop24"
+         offset="100%"
+         stop-color="#087CFA" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient-2"
+       y2="40.058373"
+       x2="90.436526"
+       y1="18.271114"
+       x1="29.323359"
+       gradientTransform="scale(0.80277297,1.2456822)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop27"
+         offset="0%"
+         stop-color="#F97A12" />
+      <stop
+         id="stop29"
+         offset="7%"
+         stop-color="#CB7A3E" />
+      <stop
+         id="stop31"
+         offset="15%"
+         stop-color="#9E7B6A" />
+      <stop
+         id="stop33"
+         offset="24%"
+         stop-color="#757B91" />
+      <stop
+         id="stop35"
+         offset="33%"
+         stop-color="#537BB1" />
+      <stop
+         id="stop37"
+         offset="43%"
+         stop-color="#387CCC" />
+      <stop
+         id="stop39"
+         offset="54%"
+         stop-color="#237CE0" />
+      <stop
+         id="stop41"
+         offset="66%"
+         stop-color="#147CEF" />
+      <stop
+         id="stop43"
+         offset="79%"
+         stop-color="#0B7CF7" />
+      <stop
+         id="stop45"
+         offset="100%"
+         stop-color="#087CFA" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient-3"
+       y2="-1.3550892"
+       x2="51.803598"
+       y1="33.425535"
+       x1="67.819884"
+       gradientTransform="scale(0.85225742,1.1733544)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop48"
+         offset="0%"
+         stop-color="#FE315D" />
+      <stop
+         id="stop50"
+         offset="8%"
+         stop-color="#CB417E" />
+      <stop
+         id="stop52"
+         offset="16%"
+         stop-color="#9E4E9B" />
+      <stop
+         id="stop54"
+         offset="25%"
+         stop-color="#755BB4" />
+      <stop
+         id="stop56"
+         offset="34%"
+         stop-color="#5365CA" />
+      <stop
+         id="stop58"
+         offset="44%"
+         stop-color="#386DDB" />
+      <stop
+         id="stop60"
+         offset="54%"
+         stop-color="#2374E9" />
+      <stop
+         id="stop62"
+         offset="66%"
+         stop-color="#1478F3" />
+      <stop
+         id="stop64"
+         offset="79%"
+         stop-color="#0B7BF8" />
+      <stop
+         id="stop66"
+         offset="100%"
+         stop-color="#087CFA" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient-4"
+       y2="73.438927"
+       x2="57.245884"
+       y1="13.332372"
+       x1="11.070393"
+       gradientTransform="scale(0.88705072,1.1273313)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop69"
+         offset="0%"
+         stop-color="#FE315D" />
+      <stop
+         id="stop71"
+         offset="4%"
+         stop-color="#F63462" />
+      <stop
+         id="stop73"
+         offset="10%"
+         stop-color="#DF3A71" />
+      <stop
+         id="stop75"
+         offset="17%"
+         stop-color="#C24383" />
+      <stop
+         id="stop77"
+         offset="29%"
+         stop-color="#AD4A91" />
+      <stop
+         id="stop79"
+         offset="55%"
+         stop-color="#755BB4" />
+      <stop
+         id="stop81"
+         offset="92%"
+         stop-color="#1D76ED" />
+      <stop
+         id="stop83"
+         offset="100%"
+         stop-color="#087CFA" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="apps"
+     style="display:inline"
+     transform="translate(-463.0002,145)">
+    <g
+       id="Page-1"
+       transform="matrix(0.37851943,0,0,0.37851943,458.93092,-174.61181)"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <path
+         style="fill:#bebebe;fill-opacity:1;stroke-width:0.92994601"
+         d="M 13.283524,80.883723 V 118.08119 H 50.480993 V 80.883723 Z m 22.78297,4.649683 h 3.440477 V 95.57653 c 0.03529,0.822523 -0.08859,1.644531 -0.369478,2.418411 -0.24537,0.785114 -0.693077,1.494133 -1.300376,2.048929 -1.05392,0.78246 -2.316681,1.23391 -3.627617,1.30038 -1.061684,0.0479 -2.120183,-0.17781 -3.070998,-0.65259 -0.777909,-0.42916 -1.469427,-0.992334 -2.044134,-1.669853 l 2.140102,-2.418411 c 0.386224,0.424318 0.821981,0.796452 1.300376,1.113236 0.450123,0.263902 0.966159,0.395309 1.487515,0.374279 0.573342,0.04382 1.130578,-0.201772 1.487515,-0.652587 0.43072,-0.554728 0.629261,-1.25442 0.556618,-1.952963 z m -16.92408,0.18714 h 7.624713 v 2.792687 h -2.135304 v 9.760017 h 2.135304 v 2.88386 h -7.624713 v -2.88386 h 2.140102 v -9.760017 h -2.140102 z m -2.322443,25.388524 h 13.949051 v 2.32244 H 16.819971 Z"
+         id="Rectangle-path"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
