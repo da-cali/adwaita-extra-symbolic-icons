@@ -1,7 +1,7 @@
 # adwaita-extra-symbolic-icons
 A small collection of extra monochrome icons for the Gnome panel.
 
-<img src="https://github.com/da-cali/adwaita-extra-symbolic-icons/example.png" />
+<img src="https://github.com/da-cali/adwaita-extra-symbolic-icons/blob/master/example.png" />
 
 ### Installation
 Download:
