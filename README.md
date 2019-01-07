@@ -1,12 +1,14 @@
 # adwaita-extra-symbolic-icons
-Extra symbolic icons for the Adwaita theme.
+A small collection of extra monochrome icons for the Gnome panel.
+
+<img src="https://github.com/da-cali/adwaita-extra-symbolic-icons/example.png" />
 
 ### Installation
 Download:
 ```bash
 git clone https://github.com/da-cali/adwaita-extra-symbolic-icons
 ```
-Open directory
+Open directory:
 ```bash
 cd adwaita-extra-symbolic-icons/
 ```
