@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="emacs-symbolic.svg"
+   height="16"
+   id="svg7384"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   width="16">
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:bbox-paths="true"
+     bordercolor="#666666"
+     borderopacity="1"
+     inkscape:current-layer="layer9"
+     inkscape:cx="-2.599187"
+     inkscape:cy="1.9143659"
+     gridtolerance="10"
+     inkscape:guide-bbox="true"
+     guidetolerance="10"
+     id="namedview88"
+     inkscape:object-nodes="false"
+     inkscape:object-paths="false"
+     objecttolerance="10"
+     pagecolor="#555753"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     showborder="false"
+     showgrid="false"
+     showguides="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="true"
+     inkscape:window-height="1945"
+     inkscape:window-maximized="1"
+     inkscape:window-width="3000"
+     inkscape:window-x="0"
+     inkscape:window-y="55"
+     inkscape:zoom="45.254834">
+    <inkscape:grid
+       empspacing="2"
+       enabled="true"
+       id="grid4866"
+       originx="-222.00001"
+       originy="-381.99852"
+       snapvisiblegridlinesonly="true"
+       spacingx="1"
+       spacingy="1"
+       type="xygrid"
+       visible="true" />
+  </sodipodi:namedview>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <linearGradient
+       id="linearGradient7212"
+       osb:paint="solid">
+      <stop
+         id="stop7214"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="apps"
+     style="display:inline"
+     transform="translate(-463.00021,164.99852)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 467.87378,-149.44824 c 0,0 0.87971,0.0622 2.0114,-0.0375 0.45831,-0.0404 2.1984,-0.21132 3.49934,-0.49663 0,0 1.58618,-0.33945 2.43476,-0.65217 0.8879,-0.32721 1.37107,-0.60492 1.58854,-0.99843 -0.01,-0.0806 0.0669,-0.36653 -0.3425,-0.53829 -1.04685,-0.43908 -2.26093,-0.35966 -4.66332,-0.4106 -2.66414,-0.0915 -3.5504,-0.53747 -4.0225,-0.89663 -0.45272,-0.36435 -0.22507,-1.37236 1.71471,-2.26026 0.97713,-0.47283 4.80757,-1.34537 4.80757,-1.34537 -1.29002,-0.63764 -3.69551,-1.7586 -4.18998,-2.00067 -0.43369,-0.2123 -1.1277,-0.53196 -1.27815,-0.91871 -0.17056,-0.37128 0.40282,-0.69113 0.72311,-0.78272 1.03151,-0.29753 2.48771,-0.48246 3.81301,-0.50322 0.66616,-0.0105 0.77429,-0.0533 0.77429,-0.0533 0.91918,-0.15247 1.52428,-0.78135 1.27217,-1.77731 -0.22633,-1.01662 -1.42,-1.61397 -2.55435,-1.40717 -1.06822,0.19474 -3.64289,0.94261 -3.64289,0.94261 3.18249,-0.0276 3.71515,0.0256 3.95305,0.35818 0.14049,0.19643 -0.0638,0.46577 -0.9126,0.60439 -0.92403,0.15092 -2.84482,0.33266 -2.84482,0.33266 -1.84266,0.10942 -3.14063,0.11675 -3.52992,0.94097 -0.25432,0.53846 0.27121,1.01451 0.50156,1.31249 0.97339,1.08251 2.3794,1.66634 3.28442,2.09627 0.34052,0.16177 1.33965,0.46726 1.33965,0.46726 -2.93605,-0.16149 -5.05401,0.74007 -6.2964,1.77809 -1.40517,1.29972 -0.78357,2.84895 2.09524,3.80284 1.70035,0.56342 2.5436,0.82839 5.07993,0.59999 1.49391,-0.0805 1.72942,-0.0327 1.74431,0.09 0.021,0.17258 -1.65931,0.60129 -2.11805,0.73361 -1.16701,0.33663 -4.22627,1.01634 -4.24158,1.01965 z"
+       id="path4237"
+       style="fill:#bebebe;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
