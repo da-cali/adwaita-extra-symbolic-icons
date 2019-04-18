@@ -25,8 +25,9 @@ A small collection of monochrome icons for a more cohesive look of the Gnome pan
   ```
 
 ### Notes:
-* If after the installation your VS Code icon becomes monochromatic, do:
+* If after the installation your Thunderbird or VS Code icon becomes monochromatic, do:
   ```bash
-  sudo cp icons/code.png /usr/share/icons/hicolor/256x256/apps/
+  sudo cp icons/thunderbird.png /usr/share/icons/hicolor/256x256/apps/
+  sudo cp icons/com.visualstudio.code.png /usr/share/icons/hicolor/256x256/apps/
   ```
   and update the cache again.
