@@ -25,7 +25,8 @@ A small collection of monochrome icons for a more cohesive look of the Gnome pan
   ```
 
 ### Notes:
-* If after the installation your some icons become monochromatic, do:
+* To make certain icons work (like snaps) modify their .desktop file to the correct name (i.e: icon=spotify).
+* If after the installation some icons become monochromatic, do:
   ```bash
   sudo cp icons/thunderbird.png /usr/share/icons/hicolor/128x128/apps/
   sudo cp icons/spotify.png /usr/share/icons/hicolor/256x256/apps/
